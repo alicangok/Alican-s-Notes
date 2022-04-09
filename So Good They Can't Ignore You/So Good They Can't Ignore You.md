@@ -8,13 +8,11 @@ If your goal is to love what you do:
     - **Gain control:** Once you have enough career capital, think of gaining control of your working life, challenge your employers.
     - **Work on a mission:** Eventually, identify and work on your mission. Explore, execute, publish, market. 
 
-Rule 1: [[Don't follow your passion]]
-
-Rule 2: [[Be so good they can't ignore you]] - The importance of skill
-
-Rule 3: [[Turn down a promotion]] - The importance of control
-
-Rule 4: [[Think small, act big]] - The importance of mission
+4 main rules:
+- Rule 1: [[Don't follow your passion]]
+- Rule 2: [[Be so good they can't ignore you]] - The importance of skill
+- Rule 3: [[Turn down a promotion]] - The importance of control
+- Rule 4: [[Think small, act big]] - The importance of mission
 
 Relevant for me: [[Takeaways from Newport's story for academia]]
 
