@@ -1,0 +1,25 @@
+[build]
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+publish = "public"
+
+[build.environment]
+# Text in landing page button
+LANDING_BUTTON = "Giriş"
+# Site description on landing page
+LANDING_DESCRIPTION = "Eventually I'll share more of my notes here, but here are my notes on Cal Newport's books, enjoy :)"
+# The Markdown page linked to landing page button (e.g. put home for ./home.md)
+LANDING_PAGE = "main"
+# Site title on landing page
+LANDING_TITLE = "Alican's Notes"
+PYTHON_VERSION = "3.8"
+# Site repo URL
+REPO_URL = "https://github.com/alicangok/Alican-s-Notes"
+# Site title in navbar
+SITE_TITLE = "Alican's Notes"
+# Site URL
+SITE_URL = "https://alicangok.netlify.app/"
+# Site Timezone
+TIMEZONE = "Asia/Hong_Kong"
+ZOLA_VERSION = "0.15.2"
+# How to sort notes on the right sidebar ("date" or "title"), defaults to "title" if missing or invalid
+SORT_BY = "title"
