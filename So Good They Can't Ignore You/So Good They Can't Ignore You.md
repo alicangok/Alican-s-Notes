@@ -12,7 +12,7 @@ If your goal is to love what you do:
 - Rule 1: [[Don't follow your passion]]
 - Rule 2: [[Be so good they can't ignore you]] - The importance of skill
 - Rule 3: [[Turn down a promotion]] - The importance of control
-- Rule 4: [[Think small, act big]] - The importance of mission
+- Rule 4: [[Think small, act big]] - The importance of mission
 
 Relevant for me: [[Takeaways from Newport's story for academia]]
 
