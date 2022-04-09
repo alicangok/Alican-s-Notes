@@ -1,5 +1,5 @@
 Author: Cal Newport
-Reading: March-April 2022
+Read: March-April 2022
 
 If your goal is to love what you do:
 - Following idealized, vague passions are dangerous, they lead to unsatisfaction & anxiety. Career passions take time to develop, they are a side effect of mastery.
