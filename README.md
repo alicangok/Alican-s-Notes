@@ -1,1 +1,0 @@
-# Alican-s-Notes
