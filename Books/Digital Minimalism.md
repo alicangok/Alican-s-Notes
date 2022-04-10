@@ -1,10 +1,12 @@
 Author: Cal Newport
-Read: 29 March 2022 (skipping some paragraphs)
 
-3 main principles of digital minimalism:
+### Main Principles of Digital Minimalism
+
 - Clutter is costly. Takes our time and attention.
 - Optimization of benefits (diminshing returns, tradeoffs)
 - Intentionality: Pursuit of meaning
+
+### The Transformation Process:
 
 Newport suggests a rapid, clear-cut transformation, as opposed to a gradual change. Because our initial inertia can fade when the remaning attention hogging digital thieves pull us back into the clutter.
 
@@ -15,7 +17,8 @@ Recommended declutter process:
 
 Remember, do not think of this digital declutter as a detox experience. The goal is not to give yourself a break, it is to spark a permanent transformation of your digital life. (Note to self: Therefore "soft" time limits, on free-form browsing reddit or youtube may not achieve the desired outcome). Also, make sure that you replace your new found time with meaningful pursuits, otherwise the void can make life unpleasantly stale.
 
-Practices:
+### Recommended Practices
+
 - Spend time alone, with your own thoughts, free from input from other minds.
     - Leave home without phone, take long walks
     - Write letters to yourself: reflect, create, make plans

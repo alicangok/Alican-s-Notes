@@ -1,5 +1,6 @@
 Author: Cal Newport
-Read: March-April 2022
+
+### Summary
 
 If your goal is to love what you do:
 - Following idealized, vague passions are dangerous, they lead to unsatisfaction & anxiety. Career passions take time to develop, they are a side effect of mastery.
@@ -8,7 +9,8 @@ If your goal is to love what you do:
     - **Gain control:** Once you have enough career capital, think of gaining control of your working life, challenge your employers.
     - **Work on a mission:** Eventually, identify and work on your mission. Explore, execute, publish, market. 
 
-4 main rules:
+### Rules in detail
+
 - Rule 1: [[Don't follow your passion]]
 - Rule 2: [[Be so good they can't ignore you]] - The importance of skill
 - Rule 3: [[Turn down a promotion]] - The importance of control
@@ -18,6 +20,6 @@ Relevant for me: [[Takeaways from Newport's story for academia]]
 
 > Working right trumps finding the right work
 
----
+### Criticism of the book
 
-[[Two points of criticism of so good they can't ignore you]]
+See: [[Two points of criticism of so good they can't ignore you]]
