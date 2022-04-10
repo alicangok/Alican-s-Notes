@@ -21,3 +21,5 @@ SITE_URL = "https://alicangok.netlify.app/"
 # Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
+# How to sort notes on the right sidebar ("date" or "title"), defaults to "title" if missing or invalid
+SORT_BY = "title"
