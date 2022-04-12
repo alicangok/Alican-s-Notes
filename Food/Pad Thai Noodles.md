@@ -16,4 +16,4 @@
 - Ceviz ya da yer fıstığı
 - Limon
 
-[Kaynak: Adam Ragusea](https://www.youtube.com/watch?v=puHSU9ZaZPY)
+[Kaynak ve Yöntem: Adam Ragusea](https://www.youtube.com/watch?v=puHSU9ZaZPY)
