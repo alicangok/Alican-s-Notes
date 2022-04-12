@@ -7,7 +7,7 @@
 - karabiber
 - Üzerine pişirmeden önce yumurta sarısı, çörek otu
 
-### Yöntem
+### Yöntem 
 
 0. Malzemeler hazırlanacak
     - ıspanak haşlama
