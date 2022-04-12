@@ -1,4 +1,4 @@
-**Internet Usage:**
+### Internet Usage
 
 Once the brain is wired for distraction, it craves it. We need to rewire the brain so that it's better suited to staying on task. A full on internet sabbath (discrete detox day/week), isn't effective. Instead, schedule occasional breaks from focus. In your schedule, mostly allocate time where you aren't allowed to use the internet, with periods in between where you can.
 
@@ -10,7 +10,7 @@ Make sure that you schedule the offline vs. internet usage even for hours after 
 
 Note that the idea of internet blocking is not necessarily to reduce the total amount of online time. Rather, it is to teach your brain to resist switching to the distractions at the smallest hint of boredom. Therefore, it is safe to schedule lots of internet-allowed blocks. Just make sure to respect the offline blocks. 
 
-**Meditate Productively:**
+### Meditate Productively
 
 A few times per week, schedule productive meditations: Focus your attention on a single well-defined professional problem when you're walking/jogging/driving/taking a shower.
 

@@ -9,7 +9,7 @@
 
 ### Yöntem
 
-0. Malzelemer hazırlanacak
+0. Malzemeler hazırlanacak
     - ıspanak haşlama
     - tereyağ eritme
     - fırını ısıtma 
