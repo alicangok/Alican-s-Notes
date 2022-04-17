@@ -22,4 +22,4 @@ Relevant for me: [[Takeaways from Newport's story for academia]]
 
 ### Criticism of the book
 
-See: [[Two points of criticism of so good they can't ignore you]]
+See: [[Two points of criticism of so good they can't ignore you]] 
