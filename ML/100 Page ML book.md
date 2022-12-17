@@ -1,0 +1,12 @@
+[[Introduction to ML]]
+[[Notation and Definitions]]
+[[Fundamental Algorithms]]
+[[Anatomy of a Learning Algorithm]]
+[[Basic Practice]]
+[[Neural Networks and Deep Learning]]
+[[Problems and Solutions]]
+[[Advanced Practice]]
+[[Unsupervised Learning]]
+[[Other Forms of Learning]]
+
+[[F1 score, precision and recall]]

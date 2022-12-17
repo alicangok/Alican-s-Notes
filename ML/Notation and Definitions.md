@@ -1,0 +1,16 @@
+- Random variable: Values are numerical outcomes of a random phenomenon
+- Unbiased estimator: If the expectation of the sample statistic (e.g. mean) is equal to the actual statistic
+- Bayes Rule: P(x | y) = P(y|x) \* P(x) / P(y)
+    - Posterior = Likelihood x Prior / Evidence
+    - Useful when we know the distribution of X, and the distributions of outcomes stemming from x
+    - Used in maximum likelihood estimation
+        - If the distribution is gaussian, least squares is the optimal solution
+    - Naive Bayes: assume each input variable is independent (doesn't usually hold for real data, but still effective)
+- Classification: Assigning a label
+    - Binary or multiclass
+- Regression: predict a real valued label (target)
+- Model based: learn parameters, applies to most models (e.g. SVM)
+- Instance-based: the dataset is the model (e.g. kNN)
+- Nonparametric vs parametric (from statistics)
+    - Nonparametric tests are often used when the assumptions of parametric tests are violated
+    - stats not based on parametrized distributions (mean, var, etc)

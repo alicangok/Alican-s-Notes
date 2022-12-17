@@ -1,0 +1,6 @@
+- Data normalization: better convergence
+- Nonlinear activation function: otherwise, equivalent to one layer
+- hyperparameters define how a network is trained / structure
+- batch norm: faster and more stable training
+- vanishing gradient? use ReLU (or LSTM) / skip connections
+- exploding gradient? gradient clipping / L1 L2 regularization

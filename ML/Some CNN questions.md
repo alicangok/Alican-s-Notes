@@ -1,0 +1,11 @@
+- Why CNN over DNN for images?
+    - Filters for local features (context) can be reused (tied)
+        - allow visualization for first layer 
+    - Do much more with small amount of parameters
+        - less chance of overfit
+- Average pooling vs max pooling ([by the man himself](https://www.quora.com/What-is-the-impact-of-different-pooling-methods-in-convolutional-neural-networks-Are-there-any-papers-that-compare-justify-different-pooling-strategies-max-pooling-average-etc/answer/Yoshua-Bengio), read this at some stage)
+    - Max: worse at preserving localization. But achieves translation-variance
+        - benefits: Shift invariance, additional bon-linearity (discrete), speed
+        - when you want the training to be faster (gradients flows through only the max point); when we want to detect if a feature appears or not; when features are sparse.
+    - Average: prevents learning edges & textures, better for image contrast learning
+        - when we focus more on overall features; when the window size is small and information is not sparse.

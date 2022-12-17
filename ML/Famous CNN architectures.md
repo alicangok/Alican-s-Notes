@@ -1,0 +1,51 @@
+### Famous Architectures:
+- LeNet-5 (1998): 2 conv, 2 pool, 3 dense, tanh, 60k parameters
+- AlexNet (2012): 5 conv, 3 pool, 3 dense, relu, 60M parameters
+    - ReLU, Dropout
+    - (original paper name: ImageNet Classification with Deep CNNs)
+- VGG-16 (2014): 13 conv, 2 pool, 3 dense, relu, 138M parameters
+    - stacking 3x3 convolutions, for deeper networks (previously up to 11x11)
+- InceptionV1 (2014) / GoogLeNet: 22 layers with inception modules 5M params
+    - concat parallel towers of convolutions (1x1, 3x3, 5x5)
+    - 1x1 convs do dimension reduction, and add nonlinearity
+        - by removing computational bottlenecks, allows more depth and width, hence more pattern learning
+        - some sparsity arguments in the paper
+- InceptionV3 (2015): 24M parameters
+    - Among first to use batchnorm
+    - Factorizations: 5x5 -> two 3x3, nxn -> 1xn and nx1
+- ResNet-50 (2015): skip connections, 26M parameters
+    - identity blocks: 3 batchnormed conv + add
+    - allows deeper networks (no more vanishing gradients, learning doesn't slow)
+    - no hidden dense layers (just final softmax)
+- Xception (2016): extreme inception
+    - the entire network is modules of depthwise separable convolution layers
+- Simplenet (2016): Much fewer parameters than Alex, VGG, Resnet, GoogLenet
+    - just 3x3, 1x1 conv, 2x2 max pooling (all the way down to 1x1 channels, then classification)
+- U-net (2015): segmentation
+    - u-shaped encoder (contracting) decoder (expansive) structure
+    - won radiography, microscopy challenges
+- DenseNet (2016): dense connections between layers
+- MobileNet (2017): Decompose convolution into two separate operations
+    - depth-wise convolution: treat each channel separately
+    - point-wise convolution (1x1): merge output channels of depthwise conv
+- Shufflenet (2018): For mobile devices with very limited computing power
+    - two new operations, pointwise group convolution and [channel shuffle](https://paperswithcode.com/method/channel-shuffle)
+- EfficientNet (2019): Architecture scaling method that uniformly scales all dimensions of depth/width/resolution using a compound coefficient
+    - popularized squeeze and excitation layers
+
+### Milestones, novelties:
+- First ReLU: AlexNet
+- Dropout: AlexNet
+- Stacking small (3x3) convolutions: VGG-16 (previously up to 11x11)
+- Building networks by modules, not layers: Inception V1
+    - Inception (concat parallel towers, 1x1 dim reduction) modules: Inception V1
+- Batchnorm in CNN: Inception V3
+- Skip connections, popularized by: ResNet-50
+- vs. Complexity: Simplenet, Mobilenet (channel-wise conv), Efficientnet (scaling)
+- Segmentation: Unet
+
+### Datasets:
+- MNIST: handwritten digits
+- Imagenet: 15M HD images, 22k categories (bounding boxes)
+- MS-COCO: object detection, segmentation and captioning
+- CIFAR-10, CIFAR-100
