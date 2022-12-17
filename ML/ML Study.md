@@ -9,4 +9,4 @@
 
 Couple of useful resources:
 - [Top Deep Learning Interview Questions & Answers for 2022 | Simplilearn](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
-- [https://arxiv.org/pdf/2201.00650.pdf](https://arxiv.org/pdf/2201.00650.pdf)
+- [An extensive book on Deep Learning Intervies (big pdf)](https://arxiv.org/pdf/2201.00650.pdf](https://arxiv.org/pdf/2201.00650.pdf)
