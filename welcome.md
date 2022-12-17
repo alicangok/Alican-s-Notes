@@ -6,4 +6,7 @@ Eventually I'll share more of my notes here, but here are my notes on Cal Newpor
 
 ---
 
+Also:
+
+- [[ML Study|ML Study Notes]]
 - [[Food|Yemek Tarifleri]]
